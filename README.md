@@ -4,7 +4,8 @@ Licensed under the MIT License. See file [LICENSE](./LICENSE).
 
 [Robot Framework](https://robotframework.org/) example for test library implemented in Python. Example includes code written in Robot Framework and Python.
 
-[![CodeQL](https://github.com/mneiferbag/robot-python-test-library/actions/workflows/codeql.yml/badge.svg)](https://github.com/mneiferbag/robot-python-test-library/actions/workflows/codeql.yml)
+[![Dependabot Updates](https://github.com/M-Neifer-Consulting/robot-python-test-library/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/M-Neifer-Consulting/robot-python-test-library/actions/workflows/dependabot/dependabot-updates)
+[![CodeQL](https://github.com/M-Neifer-Consulting/robot-python-test-library/actions/workflows/codeql.yml/badge.svg)](https://github.com/M-Neifer-Consulting/robot-python-test-library/actions/workflows/codeql.yml)
 
 ## How To Run
 
@@ -34,4 +35,3 @@ For more information on extending Robot Framework with test libraries written in
 
 - [ ] Add unit tests
 - [x] Create dictionary variable example
-- [x] Create list variable example
